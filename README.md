@@ -1,4 +1,3 @@
 # Tugas 3 Progjar A 2023
 
-Nama : Helsa Nesta Dhaifullah
-NRP  : 5025201005
+Helsa Nesta Dhaifullah / 5025201005
