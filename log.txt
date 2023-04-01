@@ -1,0 +1,16 @@
+Sun Mar 26 02:02:33 2023 : donalbebek.jpg berhasil diupload
+Sun Mar 26 02:02:55 2023 : pokijan.jpg berhasil diupload
+Sun Mar 26 02:05:14 2023 : baru.txt berhasil diupload
+Sun Mar 26 02:20:32 2023 : donalbebek.jpg berhasil diupload
+Sun Mar 26 02:20:43 2023 : pokijan.jpg berhasil diupload
+Sun Mar 26 02:20:52 2023 : baru.txt berhasil diupload
+Sun Mar 26 02:21:45 2023 : rfc2616.pdf berhasil diupload
+Sun Mar 26 02:29:16 2023 : baru.txt berhasil didelete
+Sun Mar 26 02:33:17 2023 : donalbebek.jpg berhasil diupload
+Sun Mar 26 02:33:26 2023 : pokijan.jpg berhasil diupload
+Sun Mar 26 02:34:04 2023 : rfc2616.pdf berhasil diupload
+Sun Mar 26 02:34:38 2023 : baru.txt berhasil diupload
+Sun Mar 26 02:35:49 2023 : donalbebek.jpg berhasil didelete
+Sun Mar 26 02:36:03 2023 : pokijan.jpg berhasil didelete
+Sun Mar 26 02:36:08 2023 : rfc2616.pdf berhasil didelete
+Sun Mar 26 02:36:16 2023 : baru.txt berhasil didelete
